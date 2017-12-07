@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\workspace\\opencl_utils\\app\\build\\intermediates\\res\\merged\\arm7\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "D:\\workspace\\opencl_utils\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\workspace\\opencl_utils\\app\\build\\intermediates\\res\\merged\\arm7\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\workspace\\opencl_utils\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]

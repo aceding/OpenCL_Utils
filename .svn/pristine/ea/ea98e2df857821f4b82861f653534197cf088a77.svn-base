@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/resultText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:gravity="center"
+        android:padding="10dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/opencl_gray"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.33"
+            android:onClick="showGrayImage"
+            android:text="Gray"
+            android:textSize="20sp"
+            android:visibility="visible"/>
+
+        <Button
+            android:id="@+id/opencl_bilateral"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.33"
+            android:onClick="showBilateralFilterImage"
+            android:text="BilateralFilter"
+            android:textSize="20sp"
+            android:visibility="visible"/>
+
+        <Button
+            android:id="@+id/opencl_simpleSample"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.33"
+            android:onClick="runSimpleSample"
+            android:text="SimpleSample"
+            android:textSize="20sp"
+            android:visibility="visible"/>
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/image_orig"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:scaleType="fitStart"/>
+
+    <ImageView
+        android:id="@+id/image_new"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:scaleType="fitStart"/>
+
+</LinearLayout>

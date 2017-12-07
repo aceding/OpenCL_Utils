@@ -1,0 +1,5 @@
+# ninja log v5
+1	395	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	c4485c2de95a8fdc
+47	630	0	CMakeFiles/native-lib.dir/src/main/cpp/refNR.cpp.o	7b8f74458fcbc9d6
+23	952	0	CMakeFiles/native-lib.dir/src/main/cpp/openCLNR.cpp.o	afb42edfbb9fab7d
+359	980	0	CMakeFiles/native-lib.dir/src/main/cpp/sonyOpenCLexample1.cpp.o	c98207620e33bfb6

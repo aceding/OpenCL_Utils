@@ -1,0 +1,15 @@
+# ninja log v5
+1	598	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	39d59876f187958c
+187	1036	0	CMakeFiles/native-lib.dir/src/main/cpp/openCLUtils.cpp.o	10e40e6df93311e2
+28	1114	0	CMakeFiles/native-lib.dir/src/main/cpp/openCLBilateralFilter.cpp.o	b54cff47b3da662c
+14	1117	0	CMakeFiles/native-lib.dir/src/main/cpp/openCLGray.cpp.o	b9b1f980c2ae01ad
+1117	1349	0	../../../../build/intermediates/cmake/arm7/debug/obj/armeabi-v7a/libnative-lib.so	ecbdd285df03365a
+2	505	0	CMakeFiles/native-lib.dir/src/main/cpp/openCLUtils.cpp.o	10e40e6df93311e2
+505	738	0	../../../../build/intermediates/cmake/arm7/debug/obj/armeabi-v7a/libnative-lib.so	ecbdd285df03365a
+2	682	0	CMakeFiles/native-lib.dir/src/main/cpp/openCLGray.cpp.o	b9b1f980c2ae01ad
+682	917	0	../../../../build/intermediates/cmake/arm7/debug/obj/armeabi-v7a/libnative-lib.so	ecbdd285df03365a
+2	423	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	39d59876f187958c
+62	886	0	CMakeFiles/native-lib.dir/src/main/cpp/openCLUtils.cpp.o	10e40e6df93311e2
+15	907	0	CMakeFiles/native-lib.dir/src/main/cpp/openCLGray.cpp.o	b9b1f980c2ae01ad
+29	1080	0	CMakeFiles/native-lib.dir/src/main/cpp/openCLBilateralFilter.cpp.o	b54cff47b3da662c
+1080	1315	0	../../../../build/intermediates/cmake/arm7/debug/obj/armeabi-v7a/libnative-lib.so	ecbdd285df03365a

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\workspace\\opencl_utils\\app\\build\\intermediates\\res\\merged\\arm7\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\aceding\\.android\\build-cache\\95f4e8826084ea8b607c9ccef2d7f86bd46d27c6\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\opencl_utils\\app\\build\\intermediates\\res\\merged\\arm7\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\aceding\\.android\\build-cache\\95f4e8826084ea8b607c9ccef2d7f86bd46d27c6\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\opencl_utils\\app\\build\\intermediates\\res\\merged\\arm7\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\aceding\\.android\\build-cache\\95f4e8826084ea8b607c9ccef2d7f86bd46d27c6\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\opencl_utils\\app\\build\\intermediates\\res\\merged\\arm7\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\aceding\\.android\\build-cache\\95f4e8826084ea8b607c9ccef2d7f86bd46d27c6\\output\\res\\drawable-v21\\notification_action_background.xml"
+    }
+]

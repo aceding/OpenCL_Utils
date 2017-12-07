@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\workspace\\opencl_utils\\app\\build\\intermediates\\res\\merged\\arm7\\debug\\drawable-nodpi-v4\\brusigablommor.jpg",
+        "source": "D:\\workspace\\opencl_utils\\app\\src\\main\\res\\drawable-nodpi\\brusigablommor.jpg"
+    },
+    {
+        "merged": "D:\\workspace\\opencl_utils\\app\\build\\intermediates\\res\\merged\\arm7\\debug\\drawable-nodpi-v4\\data.jpg",
+        "source": "D:\\workspace\\opencl_utils\\app\\src\\main\\res\\drawable-nodpi\\data.jpg"
+    }
+]

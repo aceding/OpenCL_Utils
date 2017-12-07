@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\workspace\\opencl_utils\\app\\build\\intermediates\\res\\merged\\arm7\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\aceding\\.android\\build-cache\\95f4e8826084ea8b607c9ccef2d7f86bd46d27c6\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\workspace\\opencl_utils\\app\\build\\intermediates\\res\\merged\\arm7\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\aceding\\.android\\build-cache\\95f4e8826084ea8b607c9ccef2d7f86bd46d27c6\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\workspace\\opencl_utils\\app\\build\\intermediates\\res\\merged\\arm7\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\aceding\\.android\\build-cache\\95f4e8826084ea8b607c9ccef2d7f86bd46d27c6\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\workspace\\opencl_utils\\app\\build\\intermediates\\res\\merged\\arm7\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\aceding\\.android\\build-cache\\95f4e8826084ea8b607c9ccef2d7f86bd46d27c6\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

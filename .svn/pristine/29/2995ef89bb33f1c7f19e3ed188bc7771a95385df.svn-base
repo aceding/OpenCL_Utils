@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\workspace\\opencl_utils\\app\\build\\intermediates\\incremental\\mergeArm7DebugResources\\merged.dir\\values-v16\\values-v16.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "C:\\Users\\aceding\\.android\\build-cache\\95f4e8826084ea8b607c9ccef2d7f86bd46d27c6\\output\\res\\values-v16\\values-v16.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\workspace\opencl_utils\app\build\intermediates\incremental-classes\arm7\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec28c7c319de9179a68acf42f7c52f60e4690253">
+        <dex dex="D:\workspace\opencl_utils\app\build\intermediates\transforms\dex\arm7\debug\folders\1000\10000\instant-run-bootstrap_56357f67bc7b5e05f4e350bb8ecc0d7af50590b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\opencl_utils\app\build\intermediates\incremental-runtime-classes\arm7\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\workspace\opencl_utils\app\build\intermediates\transforms\dex\arm7\debug\folders\1000\10000\instant-run_6e8f61723d5bb8654587db86ae048050cbc42cf6\classes.dex" />
+    </item>
+
+</items>
